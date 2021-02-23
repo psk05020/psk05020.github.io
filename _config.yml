@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: Hunt Your Nightmares
+title: Bonfire
 
 # [수정필요] 간단한 사이트 설명
 description: Game planning and play review
@@ -50,7 +50,7 @@ social-network-links:
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
-   steam: https://steamcommunity.com/id/sepi753/
+   steam: sepi753
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
