@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: BONFIRE LIT
@@ -9,8 +8,7 @@ cover-img: /assets/img/index-main.PNG
 <br/>
 
 ## About me
-# **ㅁㅁㅁ**형태로 입력하여 강조
-# [링크](링크주소)형태로 입력하여 링크걸기가능
+
 게임 기획자 박성권 입니다.
 시스템 기획을 주로 담당하고, 그 외의 게임 개발에 필요한 업무 일체에 대하여 공부하고있고, 많은 관심을 가지고 있습니다.
 
@@ -22,5 +20,5 @@ cover-img: /assets/img/index-main.PNG
 ```
 #Affiliation: Cloud Computing SW Research Section, Future Computing Research Division, Artificial Intelligence Research #Laboratory, Electronics and Telecommunications Research Institute (ETRI)
 #Office: ETRI 7-563, 218, Gajeong-ro, Yuseong-gu, Daejeon, Republic of Korea
-#Email: shsonkorea[at]etri.re.kr or shsongist[at]gmail.com
-#```
+Email: psk05020@gmail.com
+```
