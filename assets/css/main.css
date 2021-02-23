@@ -11,8 +11,8 @@ html {
 }
 
 body {
-  font-family: 'Open Sans', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 1.100rem;
+  font-family: 'Lora', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1.125rem;
   color: #404040;
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
