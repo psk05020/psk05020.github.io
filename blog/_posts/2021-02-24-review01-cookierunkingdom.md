@@ -92,7 +92,7 @@ or 재화를 소모해 캐릭터 성장으로 전투력 향상*
 
 ### 쿠키들의 왕국!
 
-<iframe width="100%" height="300" src="../assets/img/review_cookierunkingdom_summoneffect.mp4;autoplay=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="../assets/img/review_cookierunkingdom_summoneffect.mp4;" frameborder="0" allowfullscreen></iframe>
 
 게임 내의 아트는 상당한 수준으로 단순히 객관적으로 봤을때 전작 쿠키런: 오븐브레이크와 비교해도 깔끔하고 정돈된 그래픽과 양질의 일러스트를 제공합니다.
 이런 부분은 게임에서 드문드문 보여지는 아쉬운 부분들을 메꿔주고, 수집욕과 애정을 자극하여 수집형 게임의 근간이 되어줍니다.
