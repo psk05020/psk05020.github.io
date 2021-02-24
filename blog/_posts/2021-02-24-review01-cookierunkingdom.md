@@ -16,7 +16,7 @@ comments: true
 쿠키런 킹덤은 데브시스터즈가 꽤 이전부터 지대한 홍보를 통해 기대감을 끌어올린 야심작입니다.
 쿠키런 IP를 이용한 수 많은 실패 케이스를 딛고 일어서서 제법 좋은 성적을 거두고 있는 데브시스터즈의 두번째 성공작이라고 할 수 있는 게임입니다.
 
-![꿈의 마을](../assets/img/review_cookierunkingdom_townshiptown.jpg)
+![꿈의 마을](../assets/img/review_cookierunkingdom_town.jpg)
 
 국산 게임으로서는 다소 생소한 소셜 게임과, 흔하게 볼 수 있는 수집형 RPG 게임을 결합한 형태의 게임입니다.
 
