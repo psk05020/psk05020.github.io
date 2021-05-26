@@ -16,7 +16,7 @@ comments: true
 조금 특이하게 로닌: 더 라스트 사무라이는 일본 전국시대를 배경으로 하는 한국 개발사의 액션 게임입니다.
 Sekiro: shadows die twice(이하 세키로)에서 상당부분을 차용한것으로 보이는 시스템을 가져, 세키로의 모바일 버전이라고 생각할 수 있습니다. 
 
-![컨텐츠](../assets/img/review_roninthelastsamurai_sekiro.png)
+![세키로닌](../assets/img/review_roninthelastsamurai_sekiro.png)
 
 모바일 게임으로서는 드물게 조작 자체로 오는 재미를 추구한 것이 개성으로 매니아층을 확보하기 좋은 포지션을 잡고 있습니다.
 
@@ -30,7 +30,7 @@ Sekiro: shadows die twice(이하 세키로)에서 상당부분을 차용한것�
 적의 공격 종류에 따라 반격의 방법도 다르며, 적의 공격은 느릿하지만 몬스터마다 특정한 리듬에 맞춰서 행하므로 이 박자에 익숙해지는 것이 중요합니다.
 난이도는 높지만 반격에 성공하면 확실한 리턴이 존재하여 플레이에 전통적인 쾌감을 부여합니다.
 
-![컨텐츠](../assets/img/review_cookierunkingdom_content.jpg)
+![레벨](../assets/img/review_roninthelastsamurai_level.jpg)
 
 적을 처치하여 경험치를 얻고, 경험치를 모아 레벨업 할 경우 무작위 옵션이 3개씩 나타나며 그중 1개를 선택하여 자신의 능력으로 획득할 수 있습니다.
 이런 방식으로 게임이 지속될수록 다양한 능력을 획득하여 캐릭터가 점점 강해지는 성장 방식을 가진 로그라이크입니다.
@@ -54,7 +54,7 @@ Sekiro: shadows die twice(이하 세키로)에서 상당부분을 차용한것�
 상승폭이 지나치게 가파르고 이 구간에 새로운 플레이 경험이 전혀 없어 A에서 B 스테이지로 넘어가기 위해 A 스테이지를 상당량 반복해야하고, 위 단락에서 말씀드린것처럼
 매 스테이지마다 차이점이 너무 적어 생기는 지루함을 더 부각시켜 보여줍니다.
 
-![토벌기능](../assets/img/review_cookierunkingdom_townshipfreand.jpg)
+![토벌기능](../assets/img/review_roninthelastsamurai_battle.jpg)
 
 그 외의 반복 컨텐츠의 경우 토벌 이라는 기능으로 일정 시간동안 다른 행동을 할 수 없도록 게임을 대기 상태로 만들고, 시간이 지난 후에 다시 접속하면 시간에 맞춘 보상을 얻을 수 있도록 되어있습니다. 도중에 중단하는것도 불가능하지는 않지만 일정 시간 단위로 보상을 제공하므로 적절한 시간에 종료하지 않으면 손실을 볼 수 있습니다.
 
@@ -68,12 +68,11 @@ ex)하고싶을때 플레이하고, 플레이할 수 없는 시간에 대기를 
 
 ### 너무 얕은 성장
 
-<iframe width="100%" height="300" src="../assets/img/review_cookierunkingdom_summoneffect.mp4" frameborder="0" allowfullscreen></iframe>
+![장비](../assets/img/review_roninthelastsamurai_eqip.jpg)
+![조합](../assets/img/review_roninthelastsamurai_mix.jpg)
 
 게임의 성장 요소는 장비와 특성 2가지로 나뉘어져있습니다.
 특성은 사실상 스테이지의 보상으로 제공되는 능력치이며 유저가 특별히 관리할 부분은 없습니다. 다만 각 특성간의 성능차이가 극명한 편으로 이는 아쉬운 점입니다.
-
-![영웅쿠키와 어둠마녀쿠키](../assets/img/review_cookierunkingdom_story.jpg)
 
 아이템은 동일 등급의 아이템 3개로 다음 등급의 아이템 1개를 만들 수 있는 형태이며, 스테이지에서는 최하급 아이템만 획득할 수 있고, 뽑기 등 BM을 통하여 더 상위 장비를 획득할 수 있습니다.
 최하급 아이템이더라도 합성을 거듭하여 상위 등급의 아이템을 만들 수 있는 구조이지만 단계가 약 6개(일반, 고급, 희귀, 영웅, 전설, 신화)로 각 단계를 넘어서기 위해서는 상당한 시간이 걸린다는 것을
@@ -93,8 +92,7 @@ ex) 무기 - 태도(느리지만 강력), 일본도(균형), 쌍검(빠르지만
 
 ### 사업 모델
 
-![시간상점과 뽑기상점](../assets/img/review_cookierunkingdom_charactershop.jpg)
-![시간상점과 뽑기상점2](../assets/img/review_cookierunkingdom_timeshop.jpg)
+![상점](../assets/img/review_roninthelastsamurai_shop.jpg)
 
 뽑기와 아이템 옵션 재설정권이 주요 BM입니다.
 이에 사용되는 재화는 현금 충전을 통해 획득할 수 있으며, 그 외에는 출석으로 획득합니다.
