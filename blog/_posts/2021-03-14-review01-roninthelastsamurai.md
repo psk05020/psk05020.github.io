@@ -4,8 +4,8 @@ title: 로닌 더 라스트 사무라이 리뷰
 subtitle: 전국시대 액션 로그라이크!
 gh-repo: psk05020/psk05020.github.io
 gh-badge: [star, fork, follow]
-cover-img: /assets/img/review_cookierunkingdom_title.jpg
-tags: [game, review, mobile, devsisters, cookierun, cookierunkingdom]
+cover-img: /assets/img/review_roninthelastsamurai_title.jpg
+tags: [game, review, mobile, dreammotions]
 comments: true
 ---
 
@@ -16,7 +16,7 @@ comments: true
 조금 특이하게 로닌: 더 라스트 사무라이는 일본 전국시대를 배경으로 하는 한국 개발사의 액션 게임입니다.
 Sekiro: shadows die twice(이하 세키로)에서 상당부분을 차용한것으로 보이는 시스템을 가져, 세키로의 모바일 버전이라고 생각할 수 있습니다. 
 
-![세키로와 로닌](../assets/img/review_cookierunkingdom_town.jpg)
+![컨텐츠](../assets/img/review_roninthelastsamurai_sekiro.png)
 
 모바일 게임으로서는 드물게 조작 자체로 오는 재미를 추구한 것이 개성으로 매니아층을 확보하기 좋은 포지션을 잡고 있습니다.
 
@@ -24,7 +24,7 @@ Sekiro: shadows die twice(이하 세키로)에서 상당부분을 차용한것�
 
 ### 무거운 액션의 무거운 쾌감
 
-![전투](../assets/img/review_cookierunkingdom_battle.jpg)
+<iframe width="100%" height="300" src="../assets/img/review_roninthelastsamurai_play.mp4" frameborder="0" allowfullscreen></iframe>
 
 전투는 느린 템포로 적의 공격 하나하나를 파악하고 반격하며 이루어집니다.
 적의 공격 종류에 따라 반격의 방법도 다르며, 적의 공격은 느릿하지만 몬스터마다 특정한 리듬에 맞춰서 행하므로 이 박자에 익숙해지는 것이 중요합니다.
@@ -117,3 +117,5 @@ ex) 무기 - 태도(느리지만 강력), 일본도(균형), 쌍검(빠르지만
 단 이런 좋은 기능을 활용하지 못한 듯한 단조로운 적들의 패턴이나 게임 플레이의 핵심이 되는 버프 효과들이 게임의 잠재력을 억누르고 있어 매우 아쉬운 게임이었습니다.
 
 이상 리뷰를 마치겠습니다. :)
+
+p.s 최근 대규모 업데이트로 많은 것이 바뀌었습니다! 포텐셜이 있었던 게임인만큼 다시 한 번 경험해보고 새로운 리뷰로 찾아뵙겠습니다.
