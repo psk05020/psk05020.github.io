@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 로닌: 더 라스트 사무라이 리뷰
+title: 로닌 더 라스트 사무라이 리뷰
 subtitle: 전국시대 액션 로그라이크!
 gh-repo: psk05020/psk05020.github.io
 gh-badge: [star, fork, follow]
